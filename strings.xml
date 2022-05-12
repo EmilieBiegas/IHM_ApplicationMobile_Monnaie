@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Argent</string>
+    <string name="euros_label">Euros</string>
+    <string name="dollars_label">Dollars</string>
+    <string name="pounds_label">Pounds</string>
+    <string name="exchange_rate">1.2</string>
+    <string name="button_convert">Convertir</string>
+    <string name="currency_euros">€</string>
+    <string name="currency_dollars">$</string>
+    <string name="currency_pounds">£</string>
+    <string name="From">Convertir:</string>
+    <string name="To">En:</string>
+    <string name="button">Choisir la devise</string>
+</resources>
