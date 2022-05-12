@@ -21,4 +21,4 @@ L'interface est constituée de deux pages :
 <img src="Images/Demo_Page1.PNG" width="50%"  align="middle">
 
 - La deuxième page permet de faire la conversion en elle-même. Elle est constituée de deux zones de textes permettant d'entrer et de voir les quantités, d'un bouton pour effectuer la conversion, d'un bouton pour changer de devise (qui nous amène sur la première page), et d'un bouton pour inverser les deux devises.
-- <img src="Images/Demo_Page2.PNG" width="50%"  align="middle">
+<img src="Images/Demo_Page2.PNG" width="50%"  align="middle">
