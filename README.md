@@ -1,6 +1,6 @@
 # Interaction Homme-Machine : Application Mobile - Convertisseur de monnaies
 
-L’objectif principal de ce TME est de se familiariser avec l’environnement de développement Android, notament :
+L’objectif principal de ce TME est de se familiariser avec l’environnement de développement Android, notamment :
 
 • Créer un nouveau projet Android,
 
@@ -10,7 +10,7 @@ L’objectif principal de ce TME est de se familiariser avec l’environnement d
 
 • Composer une interface graphique basique, et
 
-• Y associer des fonctionalités
+• Y associer des fonctionnalités
 
 ## Travail effectué
 Création d'une application mobile utilisable sur émulateur (par exemple Android Virtual Device) ou avec son propre téléphone. 
